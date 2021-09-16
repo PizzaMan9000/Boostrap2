@@ -1,0 +1,59 @@
+body {
+    
+    font-family: sans-serif;
+}
+
+#BSKimg {
+    width: 100%;
+}
+
+.announcement {
+    background: linear-gradient(#5f2096 0%, #ffffff 100%);
+    padding: 15;
+
+}
+
+.announcement marquee {
+    font-size: 25px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+#MN {
+    border-style: solid;
+    border-width: 10px;
+
+}
+
+.travel_mainDiv img {
+    width: 400px;
+}
+
+.travel_mainDiv {
+    width: 430px;
+}
+.movie_head {
+    padding:6px 22px;
+    font-size:22px;
+    border-radius: 15px;
+    width: 100%;
+    display:inline-block;
+    margin-bottom: 15px;
+}
+.movie_head i {
+    float:right;
+}
+#counsilor {
+    border-radius:15px;
+    border-style:solid;
+    border-width:10px;
+    
+}
+.councilor {
+    background:linear-gradient(#427bf5 0%,#51f5be 100%)
+}
+.travel_mainDiv {
+    height:800px;
+    width:500px;
+}
+
+    
